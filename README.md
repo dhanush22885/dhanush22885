@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Artificial Intelligence and Machine Learning<br>I'm currently working on AI Agents 
+I'm currently learning Artificial Intelligence and Machine Learning. 
 
 
 ## 🌐 Socials:
