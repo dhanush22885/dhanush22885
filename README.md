@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I'm a 3rd-year Data Science student who is currently learning Artificial Intelligence and Machine Learning." <br>
+"I'm a 3rd-year Data Science student who is currently learning Artificial Intelligence and Machine Learning." <br>" I'm excited to share my projects and collaborate with others on GitHub. "
 
 
 ## 🌐 Socials:
