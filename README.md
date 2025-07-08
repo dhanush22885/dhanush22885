@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I'm a 3rd-year Data Science student who is currently learning Artificial Intelligence and Machine Learning." 
+"I'm a 3rd-year Data Science student who is currently learning Artificial Intelligence and Machine Learning."
 <br>" I'm passionate about building innovative solutions and solving complex problems."
 
 
